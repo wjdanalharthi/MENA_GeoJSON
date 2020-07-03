@@ -23,3 +23,11 @@ composing a database of MENA countries and their regions/states/provinces boundr
 - United Arab Emirates
 - Palestine
 - Yemen
+
+
+## Project Structure
+- countries: directory of the countries GeoJSON files
+- regions: directory of the regions GeoJSON data of each country
+
+## Contributions 
+Please feel free to contribute
