@@ -29,6 +29,11 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 - countries: directory of the countries GeoJSON files
 - regions: directory of the regions GeoJSON data of each country
 
+## To Do
+- add geojson data of the regions of each country
+- expand project to cover all of Africa (MEA)
+- expand project to cover Europe (EMEA)
+
 ## Contributions 
 Please feel free to contribute
 
