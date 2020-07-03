@@ -1,5 +1,5 @@
 # MENA_GeoJSON
-composing a database of MENA countries and their regions/states/provinces boundries in GeoJSON 
+composing a database of MENA countries and their regions/states/provinces boundries in GeoJSON.  
 
 ## MENA Countries
 - Algeria
@@ -17,7 +17,7 @@ composing a database of MENA countries and their regions/states/provinces boundr
 - Morocco
 - Oman
 - Qatar
-- Saudi Arabia
+- Saudi Arabia - X
 - Syria
 - Tunisia
 - United Arab Emirates
@@ -31,3 +31,6 @@ composing a database of MENA countries and their regions/states/provinces boundr
 
 ## Contributions 
 Please feel free to contribute
+
+### Sources
+- [OpenStreetMap](http://www.openstreetmap.org)
