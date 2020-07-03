@@ -1,5 +1,5 @@
-# MENA_GeoJSON
-composing a database of MENA countries and their regions/states/provinces boundries in GeoJSON.  
+# MENA GeoJSON
+composing a database of Middle East & North Africa (MENA) countries and their regions/states/provinces boundries in GeoJSON.
 
 ## MENA Countries
 - Algeria
