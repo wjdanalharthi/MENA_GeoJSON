@@ -5,25 +5,25 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 
 |#| Country       | Country Boundry| Regions Bounries  |
 |--|:----------: |:---------: | ---:|
-|1| Algeria               |   |  |
-|2| Bahrain               |   |  |
-|3| Djibouti              |   |  |
-|4| Egypt                 |   |  |
-|5| Iran                  |   |  |
-|6| Iraq                  |   |  |
-|7| Jordan                |   |  |
-|8| Kuwait                |   |  |
-|9| Lebanon               |   |  |
-|10| Libya                |   |  |
-|11| Morocco              |   |  |
-|12| Oman                 |   |  |
-|13| Qatar                |   |  |
-|14| Saudi Arabia         |  :heavy_check_mark: |  :heavy_check_mark: |
-|15| Syria                |   |  |
-|16| Tunisia              |   |  |
-|17| United Arab Emirates |   |  |
-|18| Palestine            |   |  |
-|19| Yemen                |   |  |
+|1| Algeria               |:heavy_check_mark:|  |
+|2| Bahrain               |:heavy_check_mark:|  |
+|3| Djibouti              |:heavy_check_mark:|  |
+|4| Egypt                 |:heavy_check_mark:|  |
+|5| Iran                  |:heavy_check_mark:|  |
+|6| Iraq                  |:heavy_check_mark:|  |
+|7| Jordan                |:heavy_check_mark:|  |
+|8| Kuwait                |:heavy_check_mark:|  |
+|9| Lebanon               |:heavy_check_mark:|  |
+|10| Libya                |:heavy_check_mark:|  |
+|11| Morocco              |:heavy_check_mark:|  |
+|12| Oman                 |:heavy_check_mark:|  |
+|13| Qatar                |:heavy_check_mark:|  |
+|14| Saudi Arabia         |:heavy_check_mark:|:heavy_check_mark:|
+|15| Syria                |:heavy_check_mark:|:heavy_check_mark:|
+|16| Tunisia              |:heavy_check_mark:|  |
+|17| United Arab Emirates |:heavy_check_mark:|  |
+|18| Palestine            |:heavy_check_mark:|  |
+|19| Yemen                |:heavy_check_mark:|  |
 
 ## Project Structure
 - countries: directory of the countries GeoJSON files
