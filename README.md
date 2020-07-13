@@ -8,7 +8,7 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 |#| Country       | Country Boundry| Regions Bounries  |
 |--|:----------: |:---------: | :---:|
 |1| Algeria               |:heavy_check_mark:|:heavy_check_mark:|
-|2| Bahrain               |:heavy_check_mark:|  |
+|2| Bahrain               |  |  |
 |3| Djibouti              |:heavy_check_mark:|:heavy_check_mark:|
 |4| Egypt                 |:heavy_check_mark:|  |
 |5| Iran                  |:heavy_check_mark:|:heavy_check_mark:|
