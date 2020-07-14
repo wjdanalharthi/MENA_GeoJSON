@@ -11,13 +11,13 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 |2| Bahrain               |  |  |
 |3| Djibouti              |:heavy_check_mark:|:heavy_check_mark:|
 |4| Egypt                 |:heavy_check_mark:|  |
-|5| Iran                  |:heavy_check_mark:|:heavy_check_mark:|
+|5| Iran                  |:heavy_check_mark:|  |
 |6| Iraq                  |:heavy_check_mark:|:heavy_check_mark:|
-|7| Jordan                |:heavy_check_mark:|  |
+|7| Jordan                |:heavy_check_mark:|:heavy_check_mark:|
 |8| Kuwait                |:heavy_check_mark:|  |
 |9| Lebanon               |:heavy_check_mark:|:heavy_check_mark:|
 |10| Libya                |:heavy_check_mark:|:heavy_check_mark:|
-|11| Morocco              |:heavy_check_mark:|:heavy_check_mark:|
+|11| Morocco              | |:heavy_check_mark:|
 |12| Oman                 |:heavy_check_mark:|  |
 |13| Qatar                |:heavy_check_mark:|  |
 |14| Saudi Arabia         |:heavy_check_mark:|:heavy_check_mark:|
