@@ -37,7 +37,7 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 - add **accurate** geojson data of the regions of each country either by
    - pulling it from open source datasets and reference them
    - or manually generate the data using tools such as [geojson.io](http://www.geojson.io).
-- create examples on how-to-use
+- create examples on how-to-use using libraries such as `folium` and `GeoPandas`
 
 ## Milestones
 - expand project to cover all of Africa (MEA)
