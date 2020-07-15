@@ -3,7 +3,7 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 
 ![](./MENA.png)
 
-## MENA Countries
+## MENA Countries - Project Status
 
 |#| Country       | Country Boundry| Regions Bounries  |
 |--|:----------: |:---------: | :---:|
@@ -28,13 +28,21 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 |19| Yemen                |:heavy_check_mark:|  |
 
 ## Project Structure
-- countries: directory of the countries GeoJSON files
-- regions: directory of the regions GeoJSON data of each country
+- `MENA Counries` directory: contains a directory per countries.
+- countries directories: each country directory contains
+  - 2 `geojson` files, one for the country boundries, and the other for the country regions bounries.
+  - 2 `png` images visualizing the goejson data using `geopandas`
 
 ## To Do
-- add geojson data of the regions of each country
+- add **accurate** geojson data of the regions of each country either by
+   - pulling it from open source datasets and reference them
+   - or manually generate the data using tools such as [geojson.io](http://www.geojson.io).
+
+
+## Milestones
 - expand project to cover all of Africa (MEA)
 - expand project to cover Europe (EMEA)
+
 
 ## Contributions 
 Please feel free to contribute
