@@ -50,3 +50,4 @@ Please feel free to contribute
 ### Sources
 - [OpenStreetMap](http://www.openstreetmap.org)
 - [GeoJSON Maps](http://geojson-maps.ash.ms/)
+- [DIVA GIS](http://www.diva-gis.org/)
