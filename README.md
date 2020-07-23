@@ -18,14 +18,14 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 |9| Lebanon               |:heavy_check_mark:|:heavy_check_mark:|
 |10| Libya                |:heavy_check_mark:|:heavy_check_mark:|
 |11| Morocco              | |:heavy_check_mark:|
-|12| Oman                 |:heavy_check_mark:|  |
-|13| Qatar                |:heavy_check_mark:|  |
+|12| Oman                 |:heavy_check_mark:|:heavy_check_mark:|
+|13| Qatar                |:heavy_check_mark:|:heavy_check_mark:|
 |14| Saudi Arabia         |:heavy_check_mark:|:heavy_check_mark:|
 |15| Syria                |:heavy_check_mark:|:heavy_check_mark:|
 |16| Tunisia              |:heavy_check_mark:|:heavy_check_mark:|
 |17| United Arab Emirates |:heavy_check_mark:|:heavy_check_mark:|
 |18| Palestine            |:heavy_check_mark:|  |
-|19| Yemen                |:heavy_check_mark:|  |
+|19| Yemen                |:heavy_check_mark:|:heavy_check_mark:|
 
 ## Project Structure
 - `MENA Counries` directory: contains a directory per countries.
