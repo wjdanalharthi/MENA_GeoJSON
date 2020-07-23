@@ -14,7 +14,7 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 |5| Iran                  |:heavy_check_mark:|:heavy_check_mark:|
 |6| Iraq                  |:heavy_check_mark:|:heavy_check_mark:|
 |7| Jordan                |:heavy_check_mark:|:heavy_check_mark:|
-|8| Kuwait                |:heavy_check_mark:|  |
+|8| Kuwait                |:heavy_check_mark:|:heavy_check_mark:|
 |9| Lebanon               |:heavy_check_mark:|:heavy_check_mark:|
 |10| Libya                |:heavy_check_mark:|:heavy_check_mark:|
 |11| Morocco              | |:heavy_check_mark:|
