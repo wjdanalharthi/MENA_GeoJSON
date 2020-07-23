@@ -23,7 +23,7 @@ composing a database of Middle East & North Africa (MENA) countries and their re
 |14| Saudi Arabia         |:heavy_check_mark:|:heavy_check_mark:|
 |15| Syria                |:heavy_check_mark:|:heavy_check_mark:|
 |16| Tunisia              |:heavy_check_mark:|:heavy_check_mark:|
-|17| United Arab Emirates |:heavy_check_mark:|  |
+|17| United Arab Emirates |:heavy_check_mark:|:heavy_check_mark:|
 |18| Palestine            |:heavy_check_mark:|  |
 |19| Yemen                |:heavy_check_mark:|  |
 
